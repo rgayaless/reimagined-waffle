@@ -1,7 +1,7 @@
  /* overall website page properties */
  body {
-    color: #fff;
     background-color: #212529;
+    color: #fff;
  }
 
  hr {
@@ -10,7 +10,7 @@
      height: 2px;
      width: 30px;
  }
- 
+
  h1 {color: #fff;}
 
  h2 {color: #fff;}
